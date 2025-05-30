@@ -1,1 +1,2 @@
 # Image_detection_using_YOLO_v5_model_ML_Algorithm
+Compatible with Google Collab
